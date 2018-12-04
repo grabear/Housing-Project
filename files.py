@@ -1,3 +1,3 @@
-housingFile = "​/​usr/home/kholm/HousingProject/Kens-housing-info.csv"
-incomeFile = "​</path/to/income/file>​"
-zipFile = "​</path/to/zip/file>​"
+housingFile = "​housing-info.csv"
+incomeFile = "income-info.csv​"
+zipFile = "zip-city-county-state.csv​"
